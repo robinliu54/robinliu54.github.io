@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dinghan Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Idealist. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dinghan Liu | 刘丁菡"
+  name             : "Dinghan Liu 刘丁菡"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "robinliu54@hotmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Dinghan-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,10 +37,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "robinliu54"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/_robinliu__/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
