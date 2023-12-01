@@ -36,8 +36,9 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
 - *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
-- *2023.08 - 2023.11*, Remote Researcher, <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, Massachusetts Institute of Technology, Cambridge, United States.
-- *2023.06 - 2023.08*, Visiting Scholar, <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a>, University of Michigan, Ann Arbor, United States. 
+- *2023.08 - 2023.11*, Remote Researcher, JTL Urban Mobility Lab, Massachusetts Institute of Technology, Cambridge, United States.
+- *2023.06 - 2023.08*, Visiting Scholar, Lab for Innovative Mobility Systems, University of Michigan, Ann Arbor, United States.
+- *2014.09 - 2020.07*, Chongqing Naikai Secondary School, Chongqing China
 
 # 📝 Publications 
 
@@ -69,8 +70,9 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - *2022.10* Scholarship for Volunteer Charity, Tsinghua University.
 - *2021.10* Scholarship for Overall Excellence, Tsinghua University.
 - *2021.10* Scholarship for Social Work Leadership, Tsinghua University.
-<!--
-# 💻 Internships
+- *2018.12* 3rd Prize, S.-T. Yau High School Science Award, Tsinghua University
+
+<!--# 💻 Internships
 
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
