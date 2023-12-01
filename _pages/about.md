@@ -30,7 +30,7 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Under the scientific research results of Tsinghua-Daimler Joint Research Center, Mercedes-Benz pushes OTA upgrade of *AMap Navigatorfor* first-generation MBUX in-vehicle HMI for China Market
+- *2023.11*: &nbsp;🎉🎉 Under the scientific research results of Tsinghua-Daimler Joint Research Center, <a href="https://www.mercedes-benz.com.cn/mmc/index/ota.html">Mercedes-Benz pushes OTA upgrade of *AMap Navigatorfor* first-generation MBUX in-vehicle HMI for China Market</a>.
 - *2023.09*:  I 🛫flew across the Pacific🛬 <a href="https://mp.weixin.qq.com/s/fjBcpLnuZsnXih_at59gQg">only on Boeing 737</a>!
 - *2023.08*: &nbsp;🎉🎉 I collaborate with JTL Lab in MIT as a remote researcher. 
 - *2023.06*: &nbsp;🎉🎉 I began my new research journey as a visiting scholar in University of Michigan. 
