@@ -27,6 +27,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+# 📖 Educations
+- *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
+- *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
+- *2023.08 - 2023.11*, Remote Researcher, <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, Massachusetts Institute of Technology, Cambridge, United States.
+- *2023.06 - 2023.08*, Visiting Scholar, <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a>, University of Michigan, Ann Arbor, United States. 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -45,23 +51,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2023.10* Scholarship for Overall Excellence, Tsinghua University.
-- *2023.10* Undergraduate Overseas Research Grant, Tsinghua University.
-- *2023.06* 2nd Prize, Challenge Cup National Undergraduate Academic Science and Technology Race, Tsinghua University.
+- *2023.10* Scholarship for Social Work Leadership, Tsinghua University.
+- *2023.06* Undergraduate Overseas Research Grant, Tsinghua University, Tsinghua University.
 - *2023.05* 2nd Prize, Challenge Cup National Undergraduate Academic Science and Technology Race, Tsinghua University.
 - *2022.10* Scholarship for Overall Excellence, Tsinghua University.
 - *2022.10* Scholarship for Volunteer Charity, Tsinghua University.
 - *2021.10* Scholarship for Overall Excellence, Tsinghua University.
 - *2021.10* Scholarship for Social Work Leadership, Tsinghua University.
-
-# 📖 Educations
-- *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
-- *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
-- *2023.08 - 2023.11*, Remote Researcher, <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, Massachusetts Institute of Technology, Cambridge, United States.
-- *2023.06 - 2023.08*, Visiting Scholar, <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a>, University of Michigan, Ann Arbor, United States. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
