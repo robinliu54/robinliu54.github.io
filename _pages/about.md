@@ -40,7 +40,7 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
 - *2023.08 - 2023.11*, Remote Researcher, JTL Urban Mobility Lab, Massachusetts Institute of Technology, Cambridge, United States.
 - *2023.06 - 2023.08*, Visiting Scholar, Lab for Innovative Mobility Systems, University of Michigan, Ann Arbor, United States.
-- *2014.09 - 2020.07*, Chongqing Naikai Secondary School, Chongqing China
+- *2014.09 - 2020.07*, Chongqing Naikai Secondary School, Chongqing, China
 
 # 📝 Publications 
 
