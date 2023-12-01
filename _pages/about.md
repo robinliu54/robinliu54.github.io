@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dinghan Liu, a dedicated and accomplished student at Tsinghua University, major in Mathematics and Physics + Civil Engineering and Systems. He has shown exceptional skill in Transportation, System Engineering, and Statistics. His research interests focus on transit policy, traffic modeling and planning, and human-machine interface on vehicles.
+Dinghan Liu, a dedicated and accomplished student at <a href="[https://www.google.com](https://www.tsinghua.edu.cn/en/)">Tsinghua University</a>
+, major in Mathematics and Physics + Civil Engineering and Systems. He has shown exceptional skill in Transportation, System Engineering, and Statistics. His research interests focus on transit policy, traffic modeling and planning, and human-machine interface on vehicles.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
