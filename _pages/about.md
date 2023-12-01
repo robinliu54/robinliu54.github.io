@@ -24,13 +24,13 @@ I have skills in Transportation, System Engineering, and Statistics. My research
 
 Currently I'm an undergraduate remote visiting scholar at Massachusetts Institute of Technology <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, advised by <a href="https://mobility.mit.edu/people/jinhua-zhao">Prof. Jinhua Zhao</a>, where I work on topological changes on long-term traffic planning. In Summer 2023, I worked as a visiting scholar at <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a> in University of Michigan, Ann Arbor, supervised by <a href="https://cee.engin.umich.edu/people/yin-yafeng/">Prof. Yafeng Yin</a>, where I work on Delay Operator in Dynamic Traffic Allocation. I'm also a member of the Tsinghua University-Mercedes-Benz Joint Institute for Sustainable Mobility, led by <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1204.htm">Prof. Meng Li</a>, where I collaborated with Mercedes-Benz to develop an intelligent dashboard for their next-generation vehicles. Prior to that, I worked with <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1205.htm">Prof. Ruimin Li</a> on Pricing Systems in transit public policy of Mobility as a Service (MaaS). I was also very fortunate to be advised by <a href="https://scholar.google.com/citations?user=rnZb4PUAAAAJ&hl=en">Prof. Yongbin Yang</a>, where I worked on structural analysis of railway bridges.
 
-**I'm actively seeking Graduate Program in Transportation and Operation Research for Fall 2024! 🚗🚌🚇🚆✈**
+**I'm actively seeking Graduate Program in Transportation and Operation Research for Fall 2024! 🚗🚌🚇🚆🚝🚄✈️**
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 I flew across Pacific Ocean only on Boeing 737✈!
+- *2023.09*: &nbsp;🎉🎉 I 🛫flew across the Pacific🛬 only on Boeing 737!
 - *2023.08*: &nbsp;🎉🎉 I collaborate with JTL Lab in MIT as a remote researcher. 
 - *2023.06*: &nbsp;🎉🎉 I began my new research journey as a visiting scholar in University of Michigan. 
 
