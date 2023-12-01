@@ -30,8 +30,9 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09*: &nbsp;🎉🎉 I flew across Pacific Ocean only on Boeing 737✈!
+- *2023.08*: &nbsp;🎉🎉 I collaborate with JTL Lab in MIT as a remote researcher. 
+- *2023.06*: &nbsp;🎉🎉 I began my new research journey as a visiting scholar in University of Michigan. 
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
@@ -61,16 +62,16 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - Hao Xu, Dinghan Liu en al., Bridge damping formula based on correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
 - Y.B. Yang, L. Chen, Dinghan Liu en al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
 
-# 🎖 Honors and Awards
-- *2023.10* Scholarship for Overall Excellence, Tsinghua University.
-- *2023.10* Scholarship for Social Work Leadership, Tsinghua University.
-- *2023.06* Undergraduate Overseas Research Grant, Tsinghua University, Tsinghua University.
-- *2023.05* 2nd Prize, Challenge Cup National Undergraduate Academic Science and Technology Race, Tsinghua University.
-- *2022.10* Scholarship for Overall Excellence, Tsinghua University.
-- *2022.10* Scholarship for Volunteer Charity, Tsinghua University.
-- *2021.10* Scholarship for Overall Excellence, Tsinghua University.
-- *2021.10* Scholarship for Social Work Leadership, Tsinghua University.
-- *2018.12* 3rd Prize, S.-T. Yau High School Science Award, Tsinghua University
+# 🏆 Honors and Awards 
+- *2023.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
+- *2023.10*:&nbsp; 🏅Scholarship for Social Work Leadership, Tsinghua University.
+- *2023.06*:&nbsp; 🏅Undergraduate Overseas Research Grant, Tsinghua University, Tsinghua University.
+- *2023.05*:&nbsp; 🥈2nd Prize, Challenge Cup National Undergraduate Academic Science and Technology Race, Tsinghua University.
+- *2022.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
+- *2022.10*:&nbsp; 🏅Scholarship for Volunteer Charity, Tsinghua University.
+- *2021.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
+- *2021.10*:&nbsp; 🏅Scholarship for Social Work Leadership, Tsinghua University.
+- *2018.12*:&nbsp; 🥉3rd Prize, S.-T. Yau High School Science Award, Tsinghua University
 
 <!--# 💻 Internships
 
