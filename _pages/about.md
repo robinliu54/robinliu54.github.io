@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dinghan Liu, a dedicated and accomplished student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>
-, major in Mathematics and Physics + Civil Engineering and Systems. He has shown exceptional skill in Transportation, System Engineering, and Statistics. His research interests focus on transit policy, traffic modeling and planning, and human-machine interface on vehicles.
+I am a senior undergraduate student at <a href="https://www.wyc.tsinghua.edu.cn/">Weiyang College</a> in <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, double majoring in Mathematics & Physics and Civil Engineering and Systems.
+I have skills in Transportation, System Engineering, and Statistics. My research interests focus on transit policy, traffic modeling and planning, and human-machine interface on vehicles. My research goal is to asdasdasdasd.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -56,8 +56,8 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
 - *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
-- *2023.08 - 2023.11*, Remote Researcher, JTL Urban Mobility Lab, Massachusetts Institute of Technology, Cambridge, United States.
-- *2023.06 - 2023.08*, Visiting Scholar, Lab for Innovative Mobility Systems, University of Michigan, Ann Arbor, United States. 
+- *2023.08 - 2023.11*, Remote Researcher, <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, Massachusetts Institute of Technology, Cambridge, United States.
+- *2023.06 - 2023.08*, Visiting Scholar, <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a>, University of Michigan, Ann Arbor, United States. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
