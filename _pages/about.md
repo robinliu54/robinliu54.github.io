@@ -74,9 +74,11 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - *2021.10*:&nbsp; 🏅Scholarship for Social Work Leadership, Tsinghua University.
 - *2018.12*:&nbsp; 🥉3rd Prize, S.-T. Yau High School Science Award, Tsinghua University
 
-<!--# 💻 Internships
+# 💻 Projects
+## A Neural NetworkMetamodel of Delay Operator Using Link-to-link Segment
+### A Neural NetworkMetamodel of Delay Operator Using Link-to-link Segment
+- A Neural NetworkMetamodel of Delay Operator Using Link-to-link Segment
 
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
-# 🍉 Jokes
+<!--# 🍉 Jokes
 - asdasdasdasdasdasdasd-->
