@@ -77,34 +77,36 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 # 💻 Projects
 
 ## A Neural NetworkMetamodel of Delay Operator Using Link-to-link Segment
-### *2023.6 to present* An independent project supervised by Prof. Yafeng Yin in UMich & Prof. Jinhua Zhao in MIT
+#### *2023.6 to present* An independent project supervised by Prof. Yafeng Yin in UMich & Prof. Jinhua Zhao in MIT
 - Decomposing traditional path version into "link + turn" (segment) units and give a new model;
 - Optimize neural network by integrating LSTM + 2dCNN to consider time sequences;
 - Introduce SATCN algorithm to consider topologcal change.
 
 ## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections
-### *2023.2 - 2023.12* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
+#### *2023.2 - 2023.12* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
 - Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
 - Established a set of non-motorized red-light running behavior based on PCA Model.
 
 ## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study
-### *2022.10 - 2023.1* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
+#### *2022.10 - 2023.1* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
 - Designed a speed guidance system, including a virtual block based spatial-temporal speed guidance method and HMI of speed guidance device;
 - Carryed out psychological experiments, calculated and analyzed of NASA-TLX data, driving simulator’s data, eye-tracking data using ANOVA.
 
 ## A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)
-### *2022.5 - 2022.12* An independent project supervised by Prof. Ruimin Li in Department of Civil Engineering, Tsinghua University
+#### *2022.5 - 2022.12* An independent project supervised by Prof. Ruimin Li in Department of Civil Engineering, Tsinghua University
 - Proposed and discuss a new pricing method of MaaS in Kunshan;
 - Utilize a multinomial Logit model to analyze the payment behavior preferences of passengers in multimodal transportation within MaaS.
 
 ## Retrieving Frequencies and Damping Ratios of Steel Bridges
-### *2022.11 - 2023.2* Supervised by Prof. Yongbin Yang
+#### *2022.11 - 2023.2* Supervised by Prof. Yongbin Yang
 - Put up with retrieving frequencies and damping ratios of steel bridges from the contact responses of a two-axle scanning vehicle;
 - Carry out a two-axle moving test vehicle equipped with laser sensors.
 
 ## A Dynamic Load Analysis on Elastic-Support Railway Bridges
-### *2023.5 - 2023.10* Supervised by Prof. Yongbin Yang
+#### *2023.5 - 2023.10* Supervised by Prof. Yongbin Yang
 - Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
 - Derive resonance and cancellation conditions for these bridges and establishing optimal design criteria.
-<!--# 🍉 Jokes
+  
+<!--
+# 🍉 Jokes
 - asdasdasdasdasdasdasd-->
