@@ -62,7 +62,9 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - Y.S. Lian, K. Zhang, X. Lin, Dinghan Liu and S. Li, Design and Evaluation of an In-vehicle Longitudinal Trajectory Guidance System Considering Road Emergency Events, **Transportation Research Part F: Traffic Psychology and Behaviour**, 2023 (Being Submitted)
 - H. Xu, Dinghan Liu et al., Bridge damping formula based on correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
 - Y.B. Yang, L. Chen, Dinghan Liu et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
+<!--
 - Dinghan Liu, R.M. Li et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 (Being Submitted)
+-->
 
 # 🏆 Honors and Awards 
 - *2023.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
@@ -85,8 +87,8 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 
 ## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections
 #### *2023.2 - 2023.12* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
-- Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
-- Established a set of non-motorized red-light running behavior based on PCA Model.
+&nbsp; - Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
+&nbsp; - Established a set of non-motorized red-light running behavior based on PCA Model.
 
 ## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study
 #### *2022.10 - 2023.1* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
