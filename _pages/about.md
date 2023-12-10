@@ -22,18 +22,18 @@ redirect_from:
 I am a senior undergraduate student at <a href="https://www.wyc.tsinghua.edu.cn/">Weiyang College</a> in <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, double majoring in Mathematics & Physics and Civil Engineering and Systems.
 I have skills in Transportation, System Engineering, and Statistics. My research interests focus on transit policy, traffic modeling and planning, and human-machine interface on vehicles. My research goal is to elevate awareness about the transformative power of transportation in fostering societal connectivity and equity.
 
-Currently I'm an undergraduate remote visiting scholar at Massachusetts Institute of Technology <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, advised by <a href="https://mobility.mit.edu/people/jinhua-zhao">Prof. Jinhua Zhao</a>, where I work on topological changes on long-term traffic planning. In Summer 2023, I worked as a visiting scholar at <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a> in University of Michigan, Ann Arbor, supervised by <a href="https://cee.engin.umich.edu/people/yin-yafeng/">Prof. Yafeng Yin</a>, where I work on Delay Operator in Dynamic Traffic Allocation. I'm also a member of the Tsinghua-Daimler Joint Research Center, led by <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1204.htm">Prof. Meng Li</a>, where I collaborated with Mercedes-Benz to develop an intelligent dashboard for their next-generation vehicles. Prior to that, I worked with <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1205.htm">Prof. Ruimin Li</a> on Pricing Systems in transit public policy of Mobility as a Service (MaaS). I was also very fortunate to be advised by <a href="https://scholar.google.com/citations?user=rnZb4PUAAAAJ&hl=en">Prof. Yongbin Yang</a>, where I worked on structural analysis of railway bridges.
+Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institute of Technology <a href="https://mobility.mit.edu/">JTL Urban Mobility Lab</a>, advised by <a href="https://mobility.mit.edu/people/jinhua-zhao">Prof. Jinhua Zhao</a>, where I work on topological changes in long-term traffic planning. In the Summer of 2023, I worked as a visiting scholar at <a href="https://limos.engin.umich.edu/">Lab for Innovative Mobility Systems</a> at University of Michigan, Ann Arbor, supervised by <a href="https://cee.engin.umich.edu/people/yin-yafeng/">Prof. Yafeng Yin</a>, where I work on Delay Operator in Dynamic Traffic Allocation. I'm also a Tsinghua-Daimler Joint Research Center member, led by <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1204.htm">Prof. Meng Li</a>, where I collaborated with Mercedes-Benz to develop an intelligent dashboard for their next-generation vehicles. Before that, I worked with <a href="https://www.civil.tsinghua.edu.cn/ceen/info/1062/1205.htm">Prof. Ruimin Li</a> on Pricing Systems in transit public policy of Mobility as a Service (MaaS). I was also very fortunate to be advised by <a href="https://scholar.google.com/citations?user=rnZb4PUAAAAJ&hl=en">Prof. Yongbin Yang</a>, where I worked on structural analysis of railway bridges.
 
-**I'm actively seeking Graduate Program in Transportation and Operation Research for Fall 2024! 🚗🚌🚇🚆🚝🚄✈️**
+**I'm seeking a Graduate Program in Transportation and Operation Research for Fall 2024! 🚗🚌🚇🚆🚝🚄✈️**
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 Under the scientific research results of Tsinghua-Daimler Joint Research Center, <a href="https://www.mercedes-benz.com.cn/mmc/index/ota.html">Mercedes-Benz pushes OTA upgrade of *AMap Navigatorfor* first-generation MBUX in-vehicle HMI for China Market</a>.
+- *2023.11*: &nbsp;🎉🎉 Under the scientific research results of Tsinghua-Daimler Joint Research Center, <a href="https://www.mercedes-benz.com.cn/mmc/index/ota.html">Mercedes-Benz push OTA upgrade of *AMap Navigator* for first-generation MBUX in-vehicle HMI for China Market</a>.
 - *2023.09*:  I 🛫flew across the Pacific🛬 <a href="https://mp.weixin.qq.com/s/fjBcpLnuZsnXih_at59gQg">only on Boeing 737</a>!
-- *2023.08*: &nbsp;🎉🎉 I collaborate with JTL Lab in MIT as a remote researcher. 
-- *2023.06*: &nbsp;🎉🎉 I began my new research journey as a visiting scholar in University of Michigan. 
+- *2023.08*: &nbsp;🎉🎉 I collaborate with JTL Lab at MIT as a remote researcher. 
+- *2023.06*: &nbsp;🎉🎉 I began my new research journey as a visiting scholar at University of Michigan. 
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
@@ -60,8 +60,8 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 - Y.S. Lian, K. Zhang, X. Lin, Dinghan Liu and S. Li, Design and Evaluation of an In-vehicle Longitudinal Trajectory Guidance System Considering Road Emergency Events, **Transportation Research Part F: Traffic Psychology and Behaviour**, 2023 (Being Submitted)
-- H. Xu, Dinghan Liu et al., Bridge damping formula based on correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
-- Y.B. Yang, L. Chen, Dinghan Liu et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
+- H. Xu, Dinghan Liu, et al., Bridge damping formula based on the correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
+- Y.B. Yang, L. Chen, Dinghan Liu, et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
 <!--
 - Dinghan Liu, R.M. Li et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 (Being Submitted)
 -->
@@ -81,23 +81,23 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 
 ## A Neural NetworkMetamodel of Delay Operator Using Link-to-link Segment
 #### *2023.6 to present* An independent project supervised by Prof. Yafeng Yin in UMich & Prof. Jinhua Zhao in MIT
-- Decomposing traditional path version into "link + turn" (segment) units and give a new model;
+- Decomposing the traditional path version into "link + turn" (segment) units and giving a new model;
 - Optimize neural network by integrating LSTM + 2dCNN to consider time sequences;
-- Introduce SATCN algorithm to consider topologcal change.
+- Introduce the SATCN algorithm to consider topological change.
 
 ## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections
 #### *2023.2 - 2023.12* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
 &nbsp; - Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
-&nbsp; - Established a set of non-motorized red-light running behavior based on PCA Model.
+&nbsp; - Established a set of non-motorized red-light running behaviors based on the PCA Model.
 
 ## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study
 #### *2022.10 - 2023.1* Supervised by Prof. Meng Li in Tsinghua-Daimler Joint Research Center
-- Designed a speed guidance system, including a virtual block based spatial-temporal speed guidance method and HMI of speed guidance device;
-- Carryed out psychological experiments, calculated and analyzed of NASA-TLX data, driving simulator’s data, eye-tracking data using ANOVA.
+- Designed a speed guidance system, including a virtual block-based spatial-temporal speed guidance method and HMI of speed guidance device;
+- Carry out psychological experiments, calculated and analyzed NASA-TLX data, driving simulator’s data, and eye-tracking data using ANOVA.
 
 ## A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)
-#### *2022.5 - 2022.12* An independent project supervised by Prof. Ruimin Li in Department of Civil Engineering, Tsinghua University
-- Proposed and discuss a new pricing method of MaaS in Kunshan;
+#### *2022.5 - 2022.12* An independent project supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University
+- Proposed and discussed a new pricing method of MaaS in Kunshan;
 - Utilize a multinomial Logit model to analyze the payment behavior preferences of passengers in multimodal transportation within MaaS.
 
 ## Retrieving Frequencies and Damping Ratios of Steel Bridges
@@ -108,7 +108,7 @@ Currently I'm an undergraduate remote visiting scholar at Massachusetts Institut
 ## A Dynamic Load Analysis on Elastic-Support Railway Bridges
 #### *2023.5 - 2023.10* Supervised by Prof. Yongbin Yang
 - Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
-- Derive resonance and cancellation conditions for these bridges and establishing optimal design criteria.
+- Derive resonance and cancellation conditions for these bridges and establish optimal design criteria.
   
 <!--
 # 🍉 Jokes
