@@ -80,40 +80,40 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](docs/A_Neural_Network_Metamodel_of_Delay_Operator.pdf)
+## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](docs/Neural.pdf)
 
 Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
 
 Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Decomposing the traditional path version into "link + turn" (segment) units and giving a new model;
 - Optimize neural network by integrating LSTM + 2dCNN to consider time sequences;
 - Introduce the SATCN algorithm to consider topological change.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commercial Research</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## Traffic Safety Evaluation Using Surrogate Satefy Measures in Intersections
+## <span style="color: #244D8E;">Traffic Safety Evaluation Using Surrogate Satefy Measures in Intersections</span>
 
 Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span style="color: #aaaaaa; font-size: 12px;">*2023.2 - 2023.12*</span>
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
 - Established a set of non-motorized red-light running behaviors based on the PCA Model.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commercial Research</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study
+## [Exclusive Longitudinal Speed Guidance: A Driving Simulator Study](docs/Trajectory.pdf)
 
 Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span style="color: #aaaaaa; font-size: 12px;">*2022.10 - 2023.1*</span>
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Designed a speed guidance system, including a virtual block-based spatial-temporal speed guidance method and HMI of speed guidance device;
 - Carry out psychological experiments, calculated and analyzed NASA-TLX data, driving simulator’s data, and eye-tracking data using ANOVA.
 </div>
@@ -122,11 +122,11 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)
+## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](docs/MaaS.pdf)
 
 Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University    <span style="color: #aaaaaa; font-size: 12px;">*2022.5 - 2022.12*</span>
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Proposed and discussed a new pricing method of MaaS in Kunshan;
 - Utilize a multinomial Logit model to analyze the payment behavior preferences of passengers in multimodal transportation within MaaS.
 </div>
@@ -135,11 +135,11 @@ Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## Retrieving Frequencies and Damping Ratios of Steel Bridges
+## [Retrieving Frequencies and Damping Ratios of Steel Bridges](docs/Bridge.pdf)
 
 Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2022.11 - 2023.2*</span>
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Put up with retrieving frequencies and damping ratios of steel bridges from the contact responses of a two-axle scanning vehicle;
 - Carry out a two-axle moving test vehicle equipped with laser sensors.
 </div>
@@ -148,11 +148,11 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## A Dynamic Load Analysis on Elastic-Support Railway Bridges
+## [A Dynamic Load Analysis on Elastic-Support Railway Bridges](docs/Cancellation.pdf)
 
 Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2023.5 - 2023.10*</span>
 
-<span style="color: #00369F">**Project** 
+<span style="color: #00369F">**Methodology** 
 - Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
 - Derive resonance and cancellation conditions for these bridges and establish optimal design criteria.
 </div>
