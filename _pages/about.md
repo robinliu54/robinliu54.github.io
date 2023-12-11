@@ -77,7 +77,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 
 # 💻 Projects
 
-## A Neural Network Metamodel of Delay Operator Using Link-to-link Segment
+## A Neural Network Metamodel of Delay Operator Using Link-to-link Segment    <span style="color: red; font-size: 10px;">(Being Submitted)</span>
 ##### *2023.6 to present* An independent project supervised by Prof. Yafeng Yin in UMich & Prof. Jinhua Zhao in MIT
 - Decomposing the traditional path version into "link + turn" (segment) units and giving a new model;
 - Optimize neural network by integrating LSTM + 2dCNN to consider time sequences;
