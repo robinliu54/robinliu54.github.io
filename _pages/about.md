@@ -62,10 +62,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 - Y.S. Lian, K. Zhang, X. Lin, Dinghan Liu and S. Li, Design and Evaluation of an In-vehicle Longitudinal Trajectory Guidance System Considering Road Emergency Events, **Transportation Research Part F: Traffic Psychology and Behaviour**, 2023 (Being Submitted)
 - H. Xu, Dinghan Liu, et al., Bridge damping formula based on the correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
 - Y.B. Yang, L. Chen, Dinghan Liu, et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
-
-<!--
-- Dinghan Liu, R.M. Li et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 (Being Submitted)
--->
+- Dinghan Liu, et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 (Being Submitted)
 
 # 🏆 Honors and Awards 
 - *2023.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
