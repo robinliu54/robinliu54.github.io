@@ -37,7 +37,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 
 # 📖 Educations
 - *2020.09 - 2024.06 (expected)*, Bachelor of Science in Mathematics & Physics, Weiyang College, Tsinghua University, Beijing, China. 
-- *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engieering and Systems, Weiyang College, Tsinghua University, Beijing, China.
+- *2020.09 - 2024.06 (expected)*, Bachelor of Engineering in Civil Engineering and Systems, Weiyang College, Tsinghua University, Beijing, China.
 - *2023.08 - 2023.11*, Remote Researcher, JTL Urban Mobility Lab, Massachusetts Institute of Technology, Cambridge, United States.
 - *2023.06 - 2023.08*, Visiting Scholar, Lab for Innovative Mobility Systems, University of Michigan, Ann Arbor, United States.
 - *2014.09 - 2020.07*, Chongqing Naikai Secondary School, Chongqing, China
@@ -62,6 +62,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 - Y.S. Lian, K. Zhang, X. Lin, Dinghan Liu and S. Li, Design and Evaluation of an In-vehicle Longitudinal Trajectory Guidance System Considering Road Emergency Events, **Transportation Research Part F: Traffic Psychology and Behaviour**, 2023 (Being Submitted)
 - H. Xu, Dinghan Liu, et al., Bridge damping formula based on the correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
 - Y.B. Yang, L. Chen, Dinghan Liu, et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 (Being Submitted)
+
 <!--
 - Dinghan Liu, R.M. Li et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 (Being Submitted)
 -->
