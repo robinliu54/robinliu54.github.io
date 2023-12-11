@@ -108,15 +108,16 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 - Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
 - Derive resonance and cancellation conditions for these bridges and establish optimal design criteria.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEST</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEST</div><img src='images/500x300.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+## A Dynamic Load Analysis on Elastic-Support Railway Bridges    <span style="color: #aaaaaa; font-size: 12px;">*2023.5 - 2023.10*</span>
 
-[A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](/docs/A Neural Network Surrogate Model of Delay Operator.pdf)
-
-**1212**, 1, 2, 3
+Supervised by Prof. Yongbin Yang
 
 [**Project**](https://www.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
+- Derive resonance and cancellation conditions for these bridges and establish optimal design criteria.
 </div>
 </div>
   
