@@ -77,36 +77,48 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 
 # 💻 Projects
 
-## A Neural Network Metamodel of Delay Operator Using Link-to-link Segment    <span style="color: #aaaaaa; font-size: 10px;">*2023.6 to present*</span>
+## A Neural Network Metamodel of Delay Operator Using Link-to-link Segment    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
 ##### An independent project supervised by Prof. Yafeng Yin at UMich & Prof. Jinhua Zhao at MIT
 - Decomposing the traditional path version into "link + turn" (segment) units and giving a new model;
 - Optimize neural network by integrating LSTM + 2dCNN to consider time sequences;
 - Introduce the SATCN algorithm to consider topological change.
 
-## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections    <span style="color: #aaaaaa; font-size: 15px;">2023.2 - 2023.12</span>
+## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections    <span style="color: #aaaaaa; font-size: 12px;">*2023.2 - 2023.12*</span>
 ##### Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center
 &nbsp; - Conducted exploratory analysis of intersection traffic participant trajectory data by XGBoost Classifier;
 &nbsp; - Established a set of non-motorized red-light running behaviors based on the PCA Model.
 
-## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study    <span style="color: #aaaaaa; font-size: 15px;">2022.10 - 2023.1</span>
+## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study    <span style="color: #aaaaaa; font-size: 12px;">*2022.10 - 2023.1*</span>
 #### Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center
 - Designed a speed guidance system, including a virtual block-based spatial-temporal speed guidance method and HMI of speed guidance device;
 - Carry out psychological experiments, calculated and analyzed NASA-TLX data, driving simulator’s data, and eye-tracking data using ANOVA.
 
-## A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)    <span style="color: #aaaaaa; font-size: 15px;">2022.5 - 2022.12</span>
+## A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)    <span style="color: #aaaaaa; font-size: 12px;">*2022.5 - 2022.12*</span>
 ##### An independent project supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University
 - Proposed and discussed a new pricing method of MaaS in Kunshan;
 - Utilize a multinomial Logit model to analyze the payment behavior preferences of passengers in multimodal transportation within MaaS.
 
-## Retrieving Frequencies and Damping Ratios of Steel Bridges    <span style="color: #aaaaaa; font-size: 15px;">2022.11 - 2023.2</span>
+## Retrieving Frequencies and Damping Ratios of Steel Bridges    <span style="color: #aaaaaa; font-size: 12px;">*2022.11 - 2023.2*</span>
 ##### Supervised by Prof. Yongbin Yang <div class="badge">test</div>
 - Put up with retrieving frequencies and damping ratios of steel bridges from the contact responses of a two-axle scanning vehicle;
 - Carry out a two-axle moving test vehicle equipped with laser sensors.
 
-## A Dynamic Load Analysis on Elastic-Support Railway Bridges    <span style="color: #aaaaaa; font-size: 15px;">2023.5 - 2023.10</span>
+## A Dynamic Load Analysis on Elastic-Support Railway Bridges    <span style="color: #aaaaaa; font-size: 12px;">*2023.5 - 2023.10*</span>
 ##### Supervised by Prof. Yongbin Yang
 - Analyze the dynamic behavior of railway bridges with elastic supports under moving train loads;
 - Derive resonance and cancellation conditions for these bridges and establish optimal design criteria.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEST</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](/docs/A Neural Network Surrogate Model of Delay Operator.pdf)
+
+**1212**, 1, 2, 3
+
+[**Project**](https://www.google.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
   
 <!--
 # 🍉 Jokes
