@@ -80,7 +80,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](src = docs/A Neural Network Metamodel of Delay Operator.pdf)
+## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](docs/A_Neural_Network_Metamodel_of_Delay_Operator.pdf)
 
 Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
 
@@ -106,7 +106,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commercial Research</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## Exclusive Longitudinal Speed Guidance: A Driving Simulator Study
@@ -132,7 +132,7 @@ Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua U
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Published</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## Retrieving Frequencies and Damping Ratios of Steel Bridges
@@ -145,7 +145,7 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## A Dynamic Load Analysis on Elastic-Support Railway Bridges
