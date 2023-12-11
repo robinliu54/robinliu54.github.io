@@ -80,11 +80,11 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](docs/Neural.pdf)
+## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](main/docs/Neural.pdf)
 
-Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
+Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor
 
-Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology
+Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
 
 <span style="color: #00369F">**Methodology** 
 - Decomposing the traditional path version into "link + turn" (segment) units and giving a new model;
@@ -109,7 +109,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [Exclusive Longitudinal Speed Guidance: A Driving Simulator Study](docs/Trajectory.pdf)
+## [Exclusive Longitudinal Speed Guidance: A Driving Simulator Study](main/docs/Trajectory.pdf)
 
 Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span style="color: #aaaaaa; font-size: 12px;">*2022.10 - 2023.1*</span>
 
@@ -122,7 +122,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](docs/MaaS.pdf)
+## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](main/docs/MaaS.pdf)
 
 Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University    <span style="color: #aaaaaa; font-size: 12px;">*2022.5 - 2022.12*</span>
 
@@ -135,7 +135,7 @@ Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [Retrieving Frequencies and Damping Ratios of Steel Bridges](docs/Bridge.pdf)
+## [Retrieving Frequencies and Damping Ratios of Steel Bridges](main/docs/Bridge.pdf)
 
 Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2022.11 - 2023.2*</span>
 
@@ -148,7 +148,7 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Dynamic Load Analysis on Elastic-Support Railway Bridges](docs/Cancellation.pdf)
+## [A Dynamic Load Analysis on Elastic-Support Railway Bridges](main/docs/Cancellation.pdf)
 
 Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2023.5 - 2023.10*</span>
 
