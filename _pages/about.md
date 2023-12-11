@@ -83,6 +83,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 ## A Neural Network Metamodel of Delay Operator Using Link-to-link Segment
 
 Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor    <span style="color: #aaaaaa; font-size: 12px;">*2023.6 to present*</span>
+
 Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology
 
 <span style="color: #00369F">**Project** 
@@ -92,7 +93,7 @@ Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## Traffic Safety Evaluation Using Surrogate SatefyMeasures in Intersections
@@ -144,7 +145,7 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TEST</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## A Dynamic Load Analysis on Elastic-Support Railway Bridges
