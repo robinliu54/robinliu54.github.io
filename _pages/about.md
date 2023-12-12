@@ -77,7 +77,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 
 # 💻 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/dta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/delay.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](Neural.pdf)
