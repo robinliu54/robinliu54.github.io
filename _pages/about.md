@@ -106,7 +106,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/hmi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## [Exclusive Longitudinal Speed Guidance: A Driving Simulator Study](main/docs/Trajectory.pdf)
@@ -132,7 +132,7 @@ Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua U
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/bridge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## [Retrieving Frequencies and Damping Ratios of Steel Bridges](main/docs/Bridge.pdf)
@@ -145,7 +145,7 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='cancel/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## [A Dynamic Load Analysis on Elastic-Support Railway Bridges](main/docs/Cancellation.pdf)
