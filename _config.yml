@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "robinliu54@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Dinghan-Liu"
+  researchgate     : #"https://www.researchgate.net/profile/Dinghan-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "robinliu54"
+  github           : #"robinliu54"
   google_plus      :
   keybase          :
   instagram        : "_robinliu__"
