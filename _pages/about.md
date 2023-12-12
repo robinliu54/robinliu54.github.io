@@ -122,7 +122,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](docs/MaaS.pdf)
+## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](docs/maas.pdf)
 
 Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University    <span style="color: #aaaaaa; font-size: 12px;">*2022.5 - 2022.12*</span>
 
