@@ -119,7 +119,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><div class="badge1">Submitted</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](MaaS.pdf)
@@ -158,6 +158,16 @@ Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px
 </div>
 </div>
   
-<!--
-# 🍉 Jokes
-- asdasdasdasdasdasdasd-->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Selected Project</div><img src='images/gts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+## [Design of Public Transport System in Changzhi City](GTS.pdf)
+
+Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2023.2 - 2023.5*</span>
+
+<span style="color: #00369F">**Methodology** 
+- Designing a public transportation system for Changzhi City, integrating insights from traffic demand data and zone locations；
+- Developing a model that combines a grid structure in the city center with a hub-and-spoke pattern in peripheral areas, optimizing bus line spacing and layout；
+- Proposing solutions for enhancing public transportation efficiency, including the design of specialized routes based on demand analysis.
+</div>
+</div>
