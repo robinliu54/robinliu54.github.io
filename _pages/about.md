@@ -119,7 +119,7 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><div class="badge1">Submitted</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](MaaS.pdf)
