@@ -80,7 +80,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/dta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-### [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](https://robinliu54.github.io/docs/Neural.pdf)
+## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](https://robinliu54.github.io/docs/Neural.pdf)
 
 Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor
 
