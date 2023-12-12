@@ -80,7 +80,7 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">An Independent Project</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](main/docs/Neural.pdf)
+## [A Neural Network Metamodel of Delay Operator Using Link-to-link Segment](https://robinliu54.github.io/docs/Neural.pdf)
 
 Supervised by Prof. Yafeng Yin at University of Michigan, Ann Arbor
 
@@ -93,7 +93,7 @@ Supervised by Prof. Jinhua Zhao at Massachusetts Institute of Technology    <spa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commercial Research</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Commercial Research</div><img src='images/trajectory.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 ## <span style="color: #244D8E;">Traffic Safety Evaluation Using Surrogate Satefy Measures in Intersections</span>
