@@ -135,7 +135,7 @@ Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua U
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge2">Published</div><img src='images/bridge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-## [Retrieving Frequencies and Damping Ratios of Steel Bridges](docs/Bridge.pdf)
+## [Retrieving Frequencies and Damping Ratios of Steel Bridges](Bridge.pdf)
 
 Supervised by Prof. Yongbin Yang    <span style="color: #aaaaaa; font-size: 12px;">*2022.11 - 2023.2*</span>
 
