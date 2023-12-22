@@ -62,7 +62,9 @@ Currently, I'm an undergraduate remote visiting scholar at Massachusetts Institu
 - Y.S. Lian, K. Zhang, X. Lin, Dinghan Liu and S. Li, Design and Evaluation of an In-vehicle Longitudinal Trajectory Guidance System Considering Road Emergency Events, **Transportation Research Part F: Traffic Psychology and Behaviour**, 2023 <span style="color: #eeeeee; font-size: 10px;">(Being Submitted)</span>
 - H. Xu, Dinghan Liu, et al., Bridge damping formula based on the correlation between the front and rear contact responses of a two-axle scanning vehicle, **International Journal of Structural Stability and Dynamics**, 2023
 - Y.B. Yang, L. Chen, Dinghan Liu, et al., Cancellation of Resonance for Elastically Supported Beams Subjected to Successive Moving Loads: Optimal Design Condition for Bridges, **Engineering Structures**, 2023 <span style="color: #eeeeee; font-size: 10px;">(Being Submitted)</span>
-- Dinghan Liu, et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 <span style="color: #eeeeee; font-size: 10px;">(Being Submitted)</span>
+
+<!--
+- Dinghan Liu, et al., Passenger Payment Behavior Analysis of Multimodal Mobility in MaaS Based on Logit Model, **Transportation Research Part A: Policy and Practice**, 2024 <span style="color: #eeeeee; font-size: 10px;">(Being Submitted)</span> -->
 
 # 🏆 Honors and Awards 
 - *2023.10*:&nbsp; 🏅Scholarship for Overall Excellence, Tsinghua University.
@@ -121,8 +123,9 @@ Supervised by Prof. Meng Li at Tsinghua-Daimler Joint Research Center    <span s
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge1">Submitted</div><img src='images/maas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](MaaS.pdf)
+
+## <span style="color: #244D8E;">Traffic Safety Evaluation Using Surrogate Satefy Measures in Intersections</span>
+<!--## [A Logit Model-Based Study of Pricing Systems in Mobility as a Service (MaaS)](MaaS.pdf)-->
 
 Supervised by Prof. Ruimin Li in the Department of Civil Engineering, Tsinghua University    <span style="color: #aaaaaa; font-size: 12px;">*2022.5 - 2022.12*</span>
 
